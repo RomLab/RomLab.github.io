@@ -11,7 +11,7 @@ usemathjax: true
 The pricelimiter is device for control of a converter (a domestic photovoltaic power plant) according to current daily market prices. The target of control is saving of money. The disabling of supplying electricity to the system in case of low electricity prices (according to a price limit). The device downloads current daily market prices from [OTE (prices of electricity for Czech Republic)](https://www.ote-cr.cz/cs/kratkodobe-trhy/elektrina/denni-trh). The current hour is compare with current price hour from daily market, according to price limit is output relay (with connect the converter) turn on or turn off. The current version of device controls only sale electricity to the system.
 
 <p align="center">
-<img src="assets/posts/price-limiter/screenshot-pricelimiter.png" width="500px" alt="The settings for the price limiter.">
+<img src="/assets/img/posts/price-limiter/screenshot-price-limiter.png" width="500px" alt="The settings for the price limiter.">
 </p>
 <p align="center">
 Picture 1: The settings for the price limiter.
